@@ -1,3 +1,5 @@
+<img width="1072" height="318" alt="Screenshot from 2025-08-05 23-04-49" src="https://github.com/user-attachments/assets/a06eb8b5-3c55-42c4-b931-732a84f6bc2c" />
+
 ### This lab focuses on Endpoint Forensics using Volatility 3 (memory forensic) tool. After completing this lab, you will gain an understanding of the volatility tool and have begun to investigate its usage. The lab is web-based; as long as you start the lab, you will see the lab file under the Desktop directory.
 
 ### Q1. In the memory dump analysis, determining the root of the malicious activity is essential for comprehending the extent of the intrusion. What is the name of the parent process that triggered this malicious behavior?
